@@ -8,9 +8,6 @@
   font-family: "Open Sans", sans-serif;
 }
 
-.wrapper {
-}
-
 .header {
   border: 1px solid #000000;
   background-image: url("../images/header_bg.png"),
@@ -213,8 +210,7 @@ nav ul li {
   color: #181818;
   margin-bottom: 113px;
 }
-.resume-articel {
-}
+
 .resume-title {
   font-weight: 700;
   font-size: 30px;
